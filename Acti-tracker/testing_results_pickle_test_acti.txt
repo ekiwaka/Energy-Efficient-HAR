@@ -1,0 +1,1 @@
+Sampling rate,PCA dims,Compression rate,Training accuracy,Testing accuracy,Time

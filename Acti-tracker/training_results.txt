@@ -1,0 +1,61 @@
+Sampling rate,PCA dims,Time
+Sampling rate,PCA dims,Time
+Sampling rate,PCA dims,Time
+Sampling rate,PCA dims,Time
+Sampling rate,PCA dims,Time
+Sampling rate,PCA dims,Time
+Sampling rate,PCA dims,Time
+Sampling rate,PCA dims,Time
+1,30,18.065395832061768
+1,30,15.238279104232788
+Sampling rate,PCA dims,Time
+Sampling rate,PCA dims,Time
+Sampling rate,PCA dims,Time
+Sampling rate,PCA dims,Time
+Sampling rate,PCA dims,Time
+20,30,25.056365251541138
+Sampling rate,PCA dims,Time
+20,30,16.59803295135498
+20,7,10.565895080566406
+20,8,11.774520874023438
+20,10,11.328795909881592
+20,15,12.911684274673462
+20,20,16.02914595603943
+Sampling rate,PCA dims,Time
+20,30,20.737557888031006
+20,7,10.941747188568115
+20,8,10.908835172653198
+20,10,12.252232074737549
+20,15,14.491257429122925
+20,20,18.19335627555847
+Sampling rate,PCA dims,Time
+Sampling rate,PCA dims,Time
+Sampling rate,PCA dims,Time
+20,30,21.065078020095825
+Sampling rate,PCA dims,Time
+Sampling rate,PCA dims,Time
+Sampling rate,PCA dims,Time
+Sampling rate,PCA dims,Time
+Sampling rate,PCA dims,Time
+Sampling rate,PCA dims,Time
+20,30,18.974037647247314
+Sampling rate,PCA dims,Time
+20,30,11.697846412658691
+Sampling rate,PCA dims,Time
+Sampling rate,PCA dims,Time
+20,30,21.063486576080322
+Sampling rate,PCA dims,Time
+20,30,42.96622157096863
+Sampling rate,PCA dims,Time
+20,30,16.694897890090942
+Sampling rate,PCA dims,Time
+20,30,17.95752716064453
+Sampling rate,PCA dims,Time
+20,30,15.108639240264893
+Sampling rate,PCA dims,Time
+20,30,15.004797220230103
+20,7,8.436193704605103
+20,8,8.77436351776123
+20,10,9.168866872787476
+20,15,11.126244306564331
+20,20,12.399884700775146
