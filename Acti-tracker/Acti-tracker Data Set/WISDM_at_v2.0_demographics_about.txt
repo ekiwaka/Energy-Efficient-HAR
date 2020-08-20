@@ -1,0 +1,36 @@
+demographics_about.txt for WISDM_at_v2.0 dataset
+
+See readme.txt for information about the WISDM Lab, rights,
+and other general information.
+
+Associated tasks: classification
+Number of exmaples 563:
+Number of attributes: 6
+Missing attribute values: No
+
+demographics.txt follows this format:
+[uid][height][sex][age][weight][leg injury]
+
+Fields:
+
+*uid
+	nominal
+
+*height
+	numeric, inches
+
+*sex
+	nominal, M/F
+
+*age
+	numeric, years
+
+*weight
+	numeric, US pounds (lbs)
+
+*leg injury
+	nominal, 0/1
+	Response to the question "Do you have an injury that affects the way you walk?"
+        0 indicates an answer of "No" (the user is healthy)
+        1 indicates an answer of "Yes" (the user has a leg injury)
+	
